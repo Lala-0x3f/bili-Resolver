@@ -133,7 +133,7 @@ const Home = () => {
                 </button>
               </div>
             </div>
-            <ul className="flex flex-auto gap-4">
+            <ul className="sm:flex flex-auto gap-4">
               <li>
                 <input
                   type="checkbox"
